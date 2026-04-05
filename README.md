@@ -4,7 +4,7 @@ A web-based tool for Level Designers to explore player behavior across LILA BLAC
 
 ## Live Demo
 
-🔗 [Your deployed URL here]
+🔗 [[deployed URL](https://lila-black-map.streamlit.app)]
 
 ## Tech Stack
 
